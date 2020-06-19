@@ -23,7 +23,7 @@ Per aconseguir les seves finalitats, l’associació realitza les activitats seg
 En queda exclòs qualsevol ànim de lucre.
 
 ### Article 3
-1. El domicili de l’associació s’estableix al carrer <censored>.
+1. El domicili de l’associació s’estableix al carrer `<censored>`.
 2. Les funcions d’aquesta associació s’exerceixen majoritàriament a Catalunya.
 
 ## Capítol II. Els membres de l’associació i els seus drets i obligacions
