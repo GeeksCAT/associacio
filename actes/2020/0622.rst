@@ -4,7 +4,7 @@ Reunió 2020/06/22
 Primera sessió de seguiment via mitjans telemàtics, des de Girona, Anglès i Ordino.
 
 Assistents
-##########
+----------
 
 - Jordi Bagot JordiBagot_
 - Esteve Farrés EsteveFarres_
@@ -12,8 +12,7 @@ Assistents
 - Victor Martin VictorMartin_
 
 Agenda
-######
-
+------
 
 1. Tràmits per formalitzar geeks.CAT
     1. `Procés complert <https://www2.girona.cat/ca/entitats/constituir-associacio>`_
@@ -57,19 +56,19 @@ Agenda
     - Acordem que no és important afegir un altre form diferent a la web, que ja tenim la secció de contacte a la web
 
 5. Repasada eines i suports existents
-    - [x] drive conjunt Geeks.CAT
-    - [x] form socis i full de càlcul resultant
+    - drive conjunt Geeks.CAT
+    - form socis i full de càlcul resultant
         - @all registrar-se al form
-    - [x] gastos (tabs per cada GT)
-    - [x] estatuts i acta fundacional
-    - [x] actes
+    - gastos (tabs per cada GT)
+    - estatuts i acta fundacional
+    - actes
         - de moment les fiquem aquí, votarem si les fem públiques al repo de l’associació
-    - [x] info@geekscat.org grup
-        - [x] https://groups.google.com/a/geekscat.org
-    - [x] web estàtica https://geekscat.org (gh-pages)
-    - [x] GeeksCAT a Github
+    - info@geekscat.org grup
+        - https://groups.google.com/a/geekscat.org
+    - web estàtica https://geekscat.org (gh-pages)
+    - GeeksCAT a Github
         - repos associació i web
-    - [x] Geeks_CAT a Twitter
+    - Geeks_CAT a Twitter
 
 6. Logo + branding
     - Acordem que proposarem a tota la comunitat si volen proposar branding i/o logo per GeeksCAT
@@ -77,10 +76,11 @@ Agenda
 
 
 Tasques
-#######
+-------
 
 - @all Votació: fem públiques les actes?
     - les podem integrar al repo de l’associació
+    
 - @all: validar permisos 5)
 - @all: 3)
 - JordiBagot_: 1.iii)
