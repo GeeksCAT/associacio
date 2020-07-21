@@ -1,0 +1,95 @@
+Reunió 2020/06/22
+=================
+
+Primera sessió de seguiment via mitjans telemàtics, des de Girona, Anglès i Ordino.
+
+Assistents
+----------
+
+- Jordi Bagot JordiBagot_
+- Esteve Farrés EsteveFarres_
+- Xavi Torelló XaviTorello_
+- Victor Martin VictorMartin_
+
+Agenda
+------
+
+1. Tràmits per formalitzar geeks.CAT
+    1. `Procés complert <https://www2.girona.cat/ca/entitats/constituir-associacio>`_
+    2. [JordiBagot_] preparar
+        - 2 còpies acta fundacional
+        - 3 còpies estatuts
+        - impressió DNI de socis fundadors
+    3. [JordiBagot_] Inscripció al Inscripció al Registre General d’Associacions
+        - //es necessita Acrobat Reader
+        - doc original
+        - Cal presentar l’original i una còpia
+        - Un cop tenim resposta podem tirar endavant en paral·lel els següents tràmits
+    4. [VictorMartin_] Registrar-ho a la Seu de la Generalitat a Girona
+        - es pot fer online
+        - alt: anar a l'Oficina d'Atenció Ciutadana de la Delegació Territorial de la Generalitat de Catalunya a Girona    
+    5. NIF provisional i l'exempció de l'IVA 
+        - Delegació d'Hisenda de Girona
+        - http://xarxanet.org/economic/recursos/com-demanar-el-nif-per-primer-cop
+    6. Inscripció al Registre Municipal d'Entitats
+        - https://seu.girona.cat/portal/girona_ca/serveis/e-registre/AaZ/1360.html
+    7. Acordem
+        - JordiBagot_ lidera 1.iii)
+        - Quan tinguem 1.iii) podrem començar en paral·lel les altres tasques
+            - VictorMartin_ lidera 1.iv
+            - Les altres tasques les repartim quan tinguem 1.iii) tancat, idealment que les lideri un altre membre per balancejar esforços :)
+
+2. Estratègia alta socis
+    - Acordem estudiar-ho més endavant tot té pros i contres (domis vs transf)
+    - Caldrà parlar amb diferents bancs per veure possibles comissions i poder calcular els costos relacionats
+
+
+3. Objectius primera JD
+    - Repassem plegats algunes idees que han anat sorgint
+    - Acordem fer sessió monogràfica per tancar els objectius
+    - Centralitzarem draft d’objectius a https://docs.google.com/document/d/1b_5mvILIp3ynv9giIuv0AiUtjJGuD3seERbZGZJB4BQ
+        - Afegiu els vostres objectius i els votem a la sessió monogr.
+    - Deadline 2020/07/06
+
+4. Form colaboracions
+    - p.e Ernesto amb GDG, o la seva parella amb woman makers o algo així
+    - Acordem que no és important afegir un altre form diferent a la web, que ja tenim la secció de contacte a la web
+
+5. Repasada eines i suports existents
+    - drive conjunt Geeks.CAT
+    - form socis i full de càlcul resultant
+        - @all registrar-se al form
+    - gastos (tabs per cada GT)
+    - estatuts i acta fundacional
+    - actes
+        - de moment les fiquem aquí, votarem si les fem públiques al repo de l’associació
+    - info@geekscat.org grup
+        - https://groups.google.com/a/geekscat.org
+    - web estàtica https://geekscat.org (gh-pages)
+    - GeeksCAT a Github
+        - repos associació i web
+    - Geeks_CAT a Twitter
+
+6. Logo + branding
+    - Acordem que proposarem a tota la comunitat si volen proposar branding i/o logo per GeeksCAT
+    - Votarem les propostes
+
+
+Tasques
+-------
+
+- @all Votació: fem públiques les actes?
+    - les podem integrar al repo de l’associació
+    
+- @all: validar permisos 5)
+- @all: 3)
+- JordiBagot_: 1.iii)
+- VictorMartin_: 2.iv)
+- XaviTorello_: 6.i)
+
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _JordiBagot: https://github.com/jbagot
+.. _VictorMartin: https://github.com/VictorMartinGarcia
+.. _FrancescArpi: https://github.com/FrancescArpi
+.. _EsteveFarres: https://github.com/efb-ubikwa
