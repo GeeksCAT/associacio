@@ -1,0 +1,58 @@
+Reunió 2020/07/13
+=================
+
+Acta de la sessió monogràfica per definir i prioritzar els objectius de la JD 2020-20201.
+
+Via mitjans telemàtics, des de Girona, Anglès, Lloret i Ordino.
+
+Assistents
+----------
+
+- Francesc Arpí FrancescArpi_
+- Jordi Bagot JordiBagot_
+- Victor Martin VictorMartin_
+- Xavi Torelló XaviTorello_
+- Esteve Farrés EsteveFarres_
+
+Agenda
+------
+
+1. Revisió i validació objectius JD 2020-2021
+    - Repassem plegats tots els objectius afegits, els adaptem en calent entre tots i els prioritzem.
+    - En termes generals apostem per: 
+        - 1. Consolidar la creació de l'associació
+        - 2. Crear el GT Python Girona i seguir dedicant la majoria de les energies en el meetup
+        - 3. Crear algun esdeveniment de curta durada i mirar d'apropar-nos a l'escena gironina
+    - Acordem la `llista d'objectius <https://docs.google.com/document/d/1b_5mvILIp3ynv9giIuv0AiUtjJGuD3seERbZGZJB4BQ>`_
+2. Partir objectius en issues petites i assignar-nos-les
+    - Lidera XaviTorello_
+    - @all: Revisar issues i autoassignar-nos-les depenent de les preferències i disponibilitat
+    - Si cal partirem les issues en tasques més petites
+    - Veure board https://github.com/orgs/GeeksCAT/projects/1
+2. Votació de fer públiques les actes al `repo de l'associació <https://github.com/GeeksCAT/associacio>`_
+    - Tots a favor
+3. Fer votació per escollir logo
+    - Lidera XaviTorello_
+    - Incloses les versions no digitalitzades
+    - Si cal destinarem part del pressupost en digitalitzar alguna de les versions rebudes
+    - veure https://github.com/GeeksCAT/associacio/issues/8
+4. Comunicar a PythonGirona la situació actual
+    - Lidera XaviTorello_
+    - Missatge:
+      - seguim vius!
+      - apostem per les trobades presencials, tot i això si algú s’interessa per fer alguna online estarem encantats de rebre propostes
+      - com cada any farem parón d’estiu
+      - tornem al setembre!
+      - keep save :)
+    - veure https://github.com/GeeksCAT/associacio/issues/9
+5. Prepararem llista de bancs candidats
+    - Lidera FrancescArpi_
+    - https://github.com/GeeksCAT/associacio/issues/10
+6. Torn obert de paraules
+
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _JordiBagot: https://github.com/jbagot
+.. _VictorMartin: https://github.com/VictorMartinGarcia
+.. _FrancescArpi: https://github.com/FrancescArpi
+.. _EsteveFarres: https://github.com/efb-ubikwa
