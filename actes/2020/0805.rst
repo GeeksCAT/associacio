@@ -1,0 +1,88 @@
+Reunió 2020/08/05
+=================
+
+Sessió de seguiment realitzada emprant mitjans telemàtics, des de Girona, Lloret i Ordino.
+
+Assistents
+----------
+
+- Francesc Arpí FrancescArpi_
+- Jordi Bagot JordiBagot_
+- Victor Martin VictorMartin_
+- Xavi Torelló XaviTorello_
+
+Agenda
+------
+
+1. Aprovació socis
+    - Tots aprovats, som 18!
+    
+2. Kickoff socis
+    - finals set'20
+    - explicar qui som, objectius, breu roadmap
+    - max 30-40'
+    - si hi ha quòrum votació quota soci 30vs40
+        - justificar els 30, i plantejar que podriem fer amb els 40
+
+3. [Decisió] Quota de soci: imposem 30, o proposem votació a tots els socis entre 30 i 40 per implicar-los?
+    - votació durant la sessió de kickoff, veure punt 2)
+
+4. [Decisió] Inici cobrament quota socis >=2021
+
+5. [Decisió] Com votar? Com aprovar? Quan mergejar?
+    - acordem
+        - votacions
+            - JD: github (issue amb comentari)
+            - socis: telegram
+        - com aprovar PR
+            - meitat + 1 (2 reviews OK)
+
+4. [Decisió] Fem reunió ara (aquesta setmana) amb els socis, o esperem al setembre? 
+    - Explicar JD, objectius i roadmap
+    - Explicar el quèepoden "gaudir" de l'assoc (assegurança, creació de meetup, esdeveniment, vps, dominis, email, ...)
+    - Acordem fer-la a finals de setembre'20
+
+5. [Decisió] Votem totes les propostes al grup de socis. Incloses les que estan pendents de ser vectoritzades. Només una proposta
+    - XaviTorello_ obre poll
+
+6. LOPD https://github.com/orgs/GeeksCAT/projects/1#card-42397128
+    - obrim issue https://github.com/GeeksCAT/associacio/issues/23
+    - deixem fins la propera sessió per estudiar-ho i assignar-nos
+
+7. Draft pressupost
+    - FrancescArpi_ obre draft
+    - idees
+        - Geeks.CAT meetup
+        - assegurança esdeveniments
+        - esdeveniments presencials
+            - 2020 DG (si es pot)
+        - vps, dominis, mailing, ...
+        - costos alta burocràcia
+        - comissions (bancàries i derivades)
+        - gestoria
+        - pizzes
+        - beerres & seedres
+
+8. Acordem autoassignar-nos les issues https://github.com/orgs/GeeksCAT/projects/1 segons preferències
+    - Dexiem fins al set'20 per balancejar-ho
+
+9. Acordem anar plasmant idees de GT a https://github.com/orgs/GeeksCAT/projects/1#card-43154990
+
+Tasques
+-------
+- 1) FrancescArpi_ crear draft pressupost anual Geeks.CAT https://github.com/GeeksCAT/associacio/issues/24
+- 2) XaviTorello_ obre poll per la votació de logo https://github.com/GeeksCAT/associacio/issues/8
+- 3) XaviTorello_ convocar socis a finals set'20 https://github.com/orgs/GeeksCAT/projects/1#card-43156354
+- 4) @all plasmar idees GT a https://github.com/orgs/GeeksCAT/projects/1#card-43154990
+- 5) @all assignar-nose issues https://github.com/orgs/GeeksCAT/projects/1
+
+Si pertoca o si no queden integrades dins de l'agenda
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _JordiBagot: https://github.com/jbagot
+.. _VictorMartin: https://github.com/VictorMartinGarcia
+.. _FrancescArpi: https://github.com/FrancescArpi
+.. _EsteveFarres: https://github.com/efb-ubikwa
+
+
+
