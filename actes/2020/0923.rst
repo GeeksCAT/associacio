@@ -52,7 +52,7 @@ Agenda
 
     - Acordem:
         - Fer una hackaton ONLINE basada en el hacktoberfest (Octubre + GitHub)
-        - Utilitzar el projecte django jobs
+        - Utilitzar el projecte https://github.com/manjurulhoque/django-job-portal
 
         - diferents equips (idees)
             - millores codi
