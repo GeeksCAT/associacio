@@ -4,7 +4,7 @@
 
 
 Reunió <ANY>/<MES>/<DIA>
-===============
+=================
 
 Sessió de seguiment realitzada emprant mitjans telemàtics, des de Girona, Anglès, Lloret i Ordino.
 

@@ -1,0 +1,125 @@
+Reunió 2020/09/23
+=================
+
+Sessió de seguiment realitzada emprant mitjans telemàtics, des de Girona, Anglès, Lloret i Ordino.
+
+Assistents
+----------
+
+- Francesc Arpí FrancescArpi_
+- Jordi Bagot JordiBagot_
+- Victor Martin VictorMartin_
+- Xavi Torelló XaviTorello_
+- Esteve Farrés EsteveFarres_
+
+Agenda
+------
+
+1. [Decisió] Video presentació PythonGirona: GO / NoGO
+    - NoGo
+
+2. [Decisió] Geeks.CAT: com seguim?
+    - Sessió inaugural?
+        - Qui som
+        - Roadmap JD
+        - Votació logo
+        - Quota soci - Transfa banc / domi
+    - Prioritzem el portal feina?
+        - Acordem que val la pena i que ho decidirem amb el Hacktoberfest.
+    - Informàtics Empordà
+        - call conjunta entre cores
+        - preparar proposta amb el que entenem per GT / Comissió
+            - relacionat amb https://github.com/GeeksCAT/associacio/issues/28
+            - El GT seguiria tenint el seu propi Core i llibertat d’acció; estaria sota el paraigües de l’Associació i podria utilitzar tota la infra de Geeks.CAT (assegurança, infraestructura, seguiments, mentories …)
+            - Podriem fer seguiments periòdics entre el GT i la Junta per veure com van les coses, com podem ajudar des de l’Assoc
+            - I plantejar com impulsar algun esdeveniment plegats
+
+    - Acordem:
+        - El core hauràn de ser socis de Geeks.CAT.
+        - Seran un grup de treball i serien independents. Es beneficiarien de la nostra infra: k8s, dominis, banc, assegurança, etc.
+        - Hem de fer un codi de conducta que hauran de cumplir i hem de tenir alguna manera de fer avisos o de ser expulsats si no es compleix.
+        - Reunions periòdiques de seguiment trim/semestrals amb la JD, per millorar i aprendre de l'exp
+        - Signar i validar "principis" / manifest Geeks.CAT?
+        - Sense ànim de lucre
+        - Per sumar en comptes de restar o dividir
+        - //no supervisarem però si que moderarem si pertoca
+
+3. Hacktoberfest
+    - Portal Feina Geeks.CAT?
+        - https://t.me/c/1232924263/880
+        - PyES: https://twitter.com/hashtag/HacktoberfestES
+        - Idees?
+
+    - Acordem:
+        - Fer una hackaton ONLINE basada en el hacktoberfest (Octubre + GitHub)
+        - Utilitzar el projecte https://github.com/manjurulhoque/django-job-portal
+
+        - diferents equips (idees)
+            - millores codi
+            - CI
+            - arch per servir-la (proveida per GeeksCAT)
+            - isec per fer pentest i validar seguretat
+            - gràfic
+
+        - Què necessitem
+            - Permisos per crear cluster (o donar cluster fet i donar tokens al grup d'infra)
+            - JordiBagot_ estudiar eina inicial i definir amb issues què volem millorar
+                - Caducitat automatica
+                - oauth
+        - @all decidir si dinamitza i lidera equip
+        - XaviTorello_ + FrancescArpi_ fer landing explicativa
+
+        Sessió inicial kickoff
+            - Podria ser un dj en linia dels meetups de pygrn
+            - Explicar equips, tasques i roadmap
+            - Donar temps per a que la gent s'apunti on vulgui
+            - Que cada equip s'autogestioni
+            - Potser lider de cada equip obre slack, fa mentoria
+
+        Sessió cloenda GoLive
+        - Explicar els resultats, agraïments i possar-ho en producció
+
+4. PythonGirona: com seguim?
+    - meetup físic set’20 - oct’20? No
+        - descartem trobades físiques i dinamitzarem hackathon hacktoberfest
+
+5. QuickSync tasques obertes
+    - https://github.com/orgs/GeeksCAT/projects/1
+    - Votació banc Bankia: GO / NoGO
+    - https://github.com/GeeksCAT/associacio/issues/10
+        - Acordem:
+            - Tirar endavant amb Bankia, amb els contactes:
+                - Tresorer
+                - Vicepresident
+                - Secretari- RC
+    - https://github.com/GeeksCAT/associacio/issues/27
+    - Pressupost anual
+        - Caldria donar-li una empenta, ens ho demanaràn per TechSoup i l'assegurança
+        - https://github.com/GeeksCAT/associacio/issues/24
+
+Tasques
+-------
+- XaviTorello_ parla amb el president de Python España per cancel·lar el video.
+- XaviTorello_ Fer doodle i @all escollir data per la sessió inaugural i després presentar-ho als socis.
+- @all Crear definició de grup treball i repassar conceptes fins a principis de la setmana vinent (27/09/2020)
+    - https://docs.google.com/document/d/1IsAtHSc7V6laucEhiWTf4aMGLGZlJtemacm9maiky9o/edit#
+- FrancescArpi_ preguntar:
+    - per comissions i domiciliacions a Bankia
+    - tarjeta prepagament online?
+- FrancescArpi_ dona OK per obrir compte i tarja (prepagament o dèbit)
+- FrancescArpi_, JordiBagot_ i VictorMartin_ fer-se clients a Bankia (sense compte, explicar que estem obrint compte per Associació)
+- EsteveFarres_ demanar a grn 3 nodes per poder crear el cluster de kubernetes de la hacktoberfest.
+    - Dir que encara no som una associació. Per temes de factures.
+- XaviTorello_ ping a CDmon pel hacktoberfest
+- JordiBagot_ ping ministeri justícia sobre alta com Associació
+- FrancescArpi_ crear pressupost anual
+- FrancescArpi_, XaviTorello_ preperar landing page pel HacktoberFest'20
+- JordiBagot_ estudiar eina inicial i definir issues de què volem fer pel HacktoberFest'20
+- @all decidir a quin grup del HacktoberFest'20 volem participar i decidir si el volem liderar
+
+
+.. _XaviTorello: https://github.com/XaviTorello
+.. _JordiBagot: https://github.com/jbagot
+.. _VictorMartin: https://github.com/VictorMartinGarcia
+.. _FrancescArpi: https://github.com/FrancescArpi
+.. _EsteveFarres: https://github.com/efb-ubikwa
