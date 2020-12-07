@@ -100,8 +100,8 @@ Agenda
 Tasques
 -------
 - XaviTorello_ parla amb el president de Python España per cancel·lar el video.
-- Fer doodle per escollir data per la sessió inaugural i després presentar-ho als socis.
-- Crear definició de grup treball
+- XaviTorello_ Fer doodle i @all escollir data per la sessió inaugural i després presentar-ho als socis.
+- @all Crear definició de grup treball i repassar conceptes fins a principis de la setmana vinent (27/09/2020)
     - https://docs.google.com/document/d/1IsAtHSc7V6laucEhiWTf4aMGLGZlJtemacm9maiky9o/edit#
 - FrancescArpi_ preguntar:
     - per comissions i domiciliacions a Bankia
@@ -112,8 +112,11 @@ Tasques
     - Dir que encara no som una associació. Per temes de factures.
 - XaviTorello_ ping a CDmon pel hacktoberfest
 - JordiBagot_ ping ministeri justícia sobre alta com Associació
+- FrancescArpi_ crear pressupost anual
+- FrancescArpi_, XaviTorello_ preperar landing page pel HacktoberFest'20
+- JordiBagot_ estudiar eina inicial i definir issues de què volem fer pel HacktoberFest'20
+- @all decidir a quin grup del HacktoberFest'20 volem participar i decidir si el volem liderar
 
-Si pertoca o si no queden integrades dins de l'agenda
 
 .. _XaviTorello: https://github.com/XaviTorello
 .. _JordiBagot: https://github.com/jbagot
