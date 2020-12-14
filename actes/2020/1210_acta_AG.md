@@ -1,6 +1,6 @@
 # Geeks.cat - Assemblea General 2020 
 
-L'Assemblea General s'inicia a les 19:05 del dijous 10 de desembre de 2020 via conferència telemàtica a https://meet.google.com/edv-rkfr-ttg.
+L'Assemblea General s'inicia a les 19:05 del dijous 10 de desembre del 2020 via conferència telemàtica a https://meet.google.com/edv-rkfr-ttg.
 
 Assistents (per ordre d'assitència):
 
@@ -67,5 +67,7 @@ Slides Assemblea General
     - La associació intenta que tot el que es faci quedi com "open source", pero és elecció del GT. Com a mínim una persona del core ha de ser soci, i sempre que no hi hagi ànim de lucre serà elecció del GT si publica o no el contingut.
 
 ## Cloenda
+
+No havent-hi més temes per tractar, es tanca l'Assemblea General Ordinària vora les 21 hores del dijous 10 de desembre del 2020.
 
 Signat per Xavi Torelló (presidència).
