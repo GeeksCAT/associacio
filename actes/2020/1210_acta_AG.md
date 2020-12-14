@@ -67,3 +67,5 @@ Slides Assemblea General
     - La associació intenta que tot el que es faci quedi com "open source", pero és elecció del GT. Com a mínim una persona del core ha de ser soci, i sempre que no hi hagi ànim de lucre serà elecció del GT si publica o no el contingut.
 
 ## Cloenda
+
+Signat per Xavi Torelló (presidència).
