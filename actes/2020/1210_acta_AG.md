@@ -70,4 +70,4 @@ Slides Assemblea General
 
 No havent-hi més temes per tractar, es tanca l'Assemblea General Ordinària vora les 21 hores del dijous 10 de desembre del 2020.
 
-Signat per Xavi Torelló (presidència).
+Signat per Xavi Torelló (presidència). Signat per Victor Martin (secretaria).
