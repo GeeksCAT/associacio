@@ -1,8 +1,8 @@
-# Geeks.cat - Assamblea General 2020 
+# Geeks.cat - Assemblea General 2020 
 
-Dijous 10 Desembre
+L'Assemblea General s'inicia a les 19:05 del dijous 10 de desembre de 2020 via conferència telemàtica a https://meet.google.com/edv-rkfr-ttg.
 
-Assistents:
+Assistents (per ordre d'assitència):
 
     * Xavi Torelló - soci #1
     * Francesc Arpí - soci #4
@@ -19,9 +19,9 @@ Assistents:
     * Xavi Sañé - soci #16
     * Franc Rodriguez - soci #21
     
-# Presentació
+## Presentació
 
-Slides assamblea general
+Slides Assemblea General
 
 - Presentació Junta
 - Objectius 2020
@@ -34,20 +34,20 @@ Slides assamblea general
 - Call for GTs
 - Torn obert de precs i preguntes
 
-# Votació Pressupostos 2021
+## Votació Pressupostos 2021
 
-[Votació via telegram](https://t.me/c/1159982705/426), aprobada (10 vots a favor)
+[Votació via Telegram](https://t.me/c/1159982705/426), aprovada (10 vots a favor, 0 vots en contra, 4 vots en blanc)
 
-# Explicació processos base
+## Explicació processos base
 
 - Explicació alta/baixa/modificacions
 - L'Eduard Carreras suggereix que es firmi el mandat SEPA per habilitar la domiciliació recurrent
 - Apunt sobre sponsoritzacions:
     - s'accepten donacions privades
-    - qualsevol patronici que ens pugui comprometre es votarà entre tots els socis
+    - qualsevol patrocini que ens pugui comprometre es votarà entre tots els socis
 - Explicació de "Grups de treball"
 
-# Call for GT's
+## Call for GT's
 
 - Brainstorming de possibles nous grups
    - GT Data Science - En Jaume Bellaescusa s'anima a dinamitzar el GT de data science, actualment a la seva empresa està fent grups de treballa per a resolució de problemes (kaggle)
@@ -58,7 +58,7 @@ Slides assamblea general
     - Comunicació - Es seguirà fent a nivell de junta
     - Gestió de infrastructura interna - En Fran s'ofereix a donar un cop de màó
     
-# Torn oberts de precs i preguntes
+## Torn oberts de precs i preguntes
 
 - Eudald Dachs: Els GTs es podràn crear més endavant?
 - Diogo Belo: Estado del `anem per feina`? 
@@ -66,4 +66,4 @@ Slides assamblea general
 - Eudald Dachs: Els GT poden ser privats?
     - La associació intenta que tot el que es faci quedi com "open source", pero és elecció del GT. Com a mínim una persona del core ha de ser soci, i sempre que no hi hagi ànim de lucre serà elecció del GT si publica o no el contingut.
 
-# Cloenda
+## Cloenda
