@@ -4,20 +4,20 @@ Dijous 10 Desembre
 
 Assistents:
 
-    * Xavi Torelló
-    * Francesc Arpí
-    * Victor Martin
-    * Jordi Bagot
-    * Esteve Farrés
-    * Eduard Carreras
-    * Eudal Dachs
-    * Jaume Bellaescusa
-    * Daria Roslavysch
-    * fullonic
-    * Xavier Diumé
-    * Dídac Guillen
-    * Xavi Sañé
-    * Franc Rodriguez
+    * Xavi Torelló - soci #1
+    * Francesc Arpí - soci #4
+    * Victor Martin - soci #3
+    * Jordi Bagot - soci #2
+    * Esteve Farrés - soci #5
+    * Eduard Carreras - soci #6
+    * Eudal Dachs - soci #19
+    * Jaume Bellaescusa - soci #17
+    * Daria Roslavysch - soci #13
+    * Diogo Belo - soci #11
+    * Xavier Diumé - soci #9
+    * Dídac Guillen - soci #20
+    * Xavi Sañé - soci #16
+    * Franc Rodriguez - soci #21
     
 # Presentació
 
@@ -30,10 +30,13 @@ Slides assamblea general
     - Repàs objectius
     - Projecte Github JD (kanban a github)
 - Pressupostos 2020
+- Processos base
+- Call for GTs
+- Torn obert de precs i preguntes
 
 # Votació Pressupostos 2021
 
-Votació via telegram, aprobada (10 vots a favor)
+[Votació via telegram](https://t.me/c/1159982705/426), aprobada (10 vots a favor)
 
 # Explicació processos base
 
