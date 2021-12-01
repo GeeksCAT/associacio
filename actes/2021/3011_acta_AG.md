@@ -51,7 +51,7 @@ Votació via xat del Google, aprovada (13 vots a favor, 0 vots en contra, 0 vots
 ## Torn oberts de precs i preguntes
 
 - _Eduard Vidal_ pregunta si els Grups de Treball són de temàtica purament de desenvolupament, o per exemple tindria cabuda coses més relacionades amb electrónica (p.ex. Grup de Pilot de Drons, raspberry pi, etc.,)
-    - _Xavi Torelló_ afirma que sí, l'objectiu de l'Associació es promoure qualsevol activitat tecnològica. Deixarem fins a final d'any per rebre propostes de Grups de Treball i farem "cluster" per tal de definir nous llocs 
+    - _Xavi Torelló_ afirma que sí, l'objectiu de l'Associació es promoure qualsevol activitat tecnològica. Deixarem fins a final d'any per rebre propostes de Grups de Treball i farem "cluster" per tal de definir nous grups 
 - _Eduard Carreras_ pregunta com s'envien les propostes de Grups de Treball
     - _Xavi Torelló_ respon que es pot enviar per el canal de socis del Telegram, tot i que millor passar-ho a la junta via email
     - _Eduard Carreras_ té una idea de un podcast de tecnología en Català
