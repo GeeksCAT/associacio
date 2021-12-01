@@ -8,17 +8,16 @@ Assistents (per ordre d'assitència):
     * Francesc Arpí - soci #4
     * Victor Martin - soci #3
     * Jordi Bagot - soci #2
-    * Eudago Dachs - soci #x
-    * Didac Guillen - soci #x
-    * Oriol Piera - soci #x
-    * Dani Herrera - soci #x
-    * Esteve Farrés - soci #x
+    * Esteve Farrés - soci #5
+    * Eudald Dachs - soci #19
+    * Didac Guillen - soci #20
+    * Oriol Piera - soci #14
+    * Dani Herrera - soci #007
     * Isra Saeta - soci #23
-    * Eduard Vidal - soci #x
-    * Jordi Casadevall - soci #x
-    * Eduard Carreras - soci #x
-    * Esteve Farres  - soci #x
-    * Franc Rodriguez - soci #x
+    * Eduard Vidal - soci #8
+    * Jordi Casadevall - soci #22
+    * Eduard Carreras - soci #6
+    * Franc Rodriguez - soci #21
      
     
 ## Presentació
