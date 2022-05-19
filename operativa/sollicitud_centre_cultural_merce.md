@@ -44,7 +44,8 @@
    - Pugeu el document i cliqueu el botó d'afegir el document.
    - Cliqueu continuar
 8. IMPORTANT! Descarregueu el justificant.
-9. Envieu un email a: ccm arroba ajgirona.com
+9. Envieu un email a: ccm arroba ajgirona.cat, agrabulosa arroba ajgirona.cat
+   - La persona de contacte és l'Àngels Grabulosa.
    - Cos: Bona nit,
 
         Sóc el <càrrec de l'associació> de Geeks.CAT associació de Girona i ens agradaria poder fer una trobada al Centre Cultural de la Mercè el dia dd/mm/YYYY de 19h a 20:30h. Seriem entre 15 i 20 persones.
@@ -52,6 +53,8 @@
         Està disponible? Només necessitem una sala amb projector com l'última vegada.
 
         Ja he fet la sol·licitud online i aquí teniu el justificant.
+
+        Gràcies.
 
         Atentament,
 
