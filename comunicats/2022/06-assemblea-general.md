@@ -21,7 +21,9 @@ Recordeu que per tenir dret a vot heu d'haver satisfet les quotes anuals de l'As
 
 Un cop acabada l'AG hi haurà [xerrada de PythonGirona (DataFrames a Python més enllà de Pandas)](https://www.meetup.com/pythongirona/events/286490431/).
 
-Tancarem la jornada amb el sopar pre-vacances, anirem a sopar pel centre de Girona, segurament a alguna terrasseta propera al CC La Mercè.
+Tancarem la jornada amb el sopar pre-vacances, anirem a sopar pel centre de Girona, segurament a alguna terrasseta propera al CC La Mercè. 
+
+S.u.p, de cara a la correcta gestió i reserva de l'espai i del restaurant, confirmeu l'assistència a través de la plataforma Meetup :)
 
 Tornarem a reactivar l'activitat al setembre un cop acabi la temporada de vacances.
 
