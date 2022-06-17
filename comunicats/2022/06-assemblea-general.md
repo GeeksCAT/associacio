@@ -6,7 +6,7 @@ Toca renovar la JD i a banda de fer balanç d'aquests dos últims anys, votarem 
 
 Si no podeu assistir-hi presencialment aviseu i buscarem la manera de fer-la online.
 
-Recordeu que per tenir dret a vot heu d'haver satisfet les quotes anuals de l'Associació, contacteu amb tresoreria@geekscat.org si voleu regularitzar-ho o teniu dubtes al respecte.
+Recordeu que per tenir dret a vot heu d'haver satisfet les quotes anuals de l'Associació, contacteu amb tresoreria@geeks.cat si voleu regularitzar-ho o teniu dubtes al respecte.
 
 
 ### Agenda
@@ -30,7 +30,7 @@ Tornarem a reactivar l'activitat al setembre un cop acabi la temporada de vacanc
 
 ### Com presentar una candidatura a JD per l'exercici 2022-2024
 
-Només cal que feu arribar un email a junta@geekscat.org amb el detall de la vostra proposta de JD:
+Només cal que feu arribar un email a junta@geeks.cat amb el detall de la vostra proposta de JD:
 - membres i rols _(recordeu que com a mínim es necessita cobrir Presidència, Tresoreria i Secretaria)_
 - idees i principals objectius
 
