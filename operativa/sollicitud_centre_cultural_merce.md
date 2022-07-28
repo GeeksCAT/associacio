@@ -11,7 +11,7 @@
 3. Autenticar-se amb idcat, pot ser el certificat idcat o amb idcat mòbil.
 4. Omplir el formulari:
    - Tipus: CIF
-   - Identificació: el CIF de l'associació
+   - Identificació: G01765429
    - Nom: GEEKS.CAT
    - Titular Adreça: Víctor Martín
    - Adreça: la podeu trobar als estatus
